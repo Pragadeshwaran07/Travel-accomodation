@@ -21,22 +21,6 @@ This Java application simulates a travel booking system that allows users to:
 - **Comparator System**: Generic comparators for sorting flights/hotels by price or ratings
 - **Full Test Coverage**: JUnit tests for all core functionality
 
-## Project Structure
-
-src/
-├── main/java/com/jap/lambdas/
-│ ├── Accommodation.java # Hotel entity with amenities
-│ ├── Flight.java # Flight entity
-│ ├── TravelOptionComparator.java # Comparators for sorting
-│ ├── TravelPlannerFlightsService.java # Flight management
-│ ├── TravelPlannerServiceAccommodation.java # Hotel management
-│ └── TravelPlannerMainDemo.java # Demo runner
-│
-├── test/java/com/jap/lambdas/
-│ ├── TravelPlannerMainDemoTest.java # Integration tests
-│ ├── TravelPlannerServiceAccommodationTest.java # Hotel tests
-│ └── TravelPlannerServiceFlightsTest.java # Flight tests
-
 ## Tools and Technologies
 - **Java JDK 17+**
 - **JUnit 4** (for unit testing)
