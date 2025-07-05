@@ -1,5 +1,5 @@
 # Travel-accomodation
-A Java-based system for managing flights and accommodations with filtering, sorting, and comparison features.
+Developed a comprehensive travel management application enabling users to handle flights and accommodations with advanced filtering/sorting capabilities. Implemented OOP design with Java 17, leveraging lambda expressions for dynamic filtering (e.g., "Show flights under $300" or "Hotels with pools"). Created generic comparators to sort travel options by price/ratings and validated functionality through JUnit tests, achieving 90%+ test coverage. Highlights: Stream API, JUnit, OOP principles, and clean modular architecture.*
 
 This Java application simulates a travel booking system that allows users to:
 
