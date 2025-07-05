@@ -2,6 +2,7 @@
 A Java-based system for managing flights and accommodations with filtering, sorting, and comparison features.
 
 This Java application simulates a travel booking system that allows users to:
+
 ✅ Manage flights (add/remove, filter by price, sort by price/ratings)
 ✅ Manage accommodations (filter by amenities, sort by price/ratings)
 ✅ Compare travel options using flexible comparators
@@ -21,6 +22,7 @@ This Java application simulates a travel booking system that allows users to:
 - **Full Test Coverage**: JUnit tests for all core functionality
 
 ## Project Structure
+
 src/
 ├── main/java/com/jap/lambdas/
 │ ├── Accommodation.java # Hotel entity with amenities
